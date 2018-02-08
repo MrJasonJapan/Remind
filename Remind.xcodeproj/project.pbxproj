@@ -19,6 +19,7 @@
 		96415C4E202C3CD100A11813 /* UNService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96415C4D202C3CD100A11813 /* UNService.swift */; };
 		96415C50202C4AD000A11813 /* AlertService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96415C4F202C4AD000A11813 /* AlertService.swift */; };
 		96415C52202C4D9F00A11813 /* CLService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96415C51202C4D9F00A11813 /* CLService.swift */; };
+		966668C7202C62BC00A80485 /* NotificationAttachmentID.swift in Sources */ = {isa = PBXBuildFile; fileRef = 966668C6202C62BC00A80485 /* NotificationAttachmentID.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		96415C4D202C3CD100A11813 /* UNService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UNService.swift; sourceTree = "<group>"; };
 		96415C4F202C4AD000A11813 /* AlertService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertService.swift; sourceTree = "<group>"; };
 		96415C51202C4D9F00A11813 /* CLService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLService.swift; sourceTree = "<group>"; };
+		966668C6202C62BC00A80485 /* NotificationAttachmentID.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationAttachmentID.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 		96415C43202C35C100A11813 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				966668C6202C62BC00A80485 /* NotificationAttachmentID.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				966668C7202C62BC00A80485 /* NotificationAttachmentID.swift in Sources */,
 				96415C52202C4D9F00A11813 /* CLService.swift in Sources */,
 				96415C31202C357C00A11813 /* ViewController.swift in Sources */,
 				96415C2F202C357C00A11813 /* AppDelegate.swift in Sources */,
